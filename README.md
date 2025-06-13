@@ -17,5 +17,7 @@ French: elementary proficiency (A2)
 
 --- 
 Contact info 
-carrillo@lcg.unam.mx
-dulce.alejandra.carrillo@ibt.unam.mx
+
+📧 carrillo@lcg.unam.mx
+
+📧 dulce.alejandra.carrillo@ibt.unam.mx
