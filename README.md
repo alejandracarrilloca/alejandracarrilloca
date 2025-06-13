@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi! I am Alejandra Carrillo 
+---
+I am a 2nd year Genomic Sciences undergraduate student at the National Autonomous University of Mexico (UNAM) with a strong interest in immunology and cancer immunology. 
 
-<!--
-**alejandracarrilloca/alejandracarrilloca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My academic and research focus lies in understanding the genomic and molecular mechanisms that regulate immune responses in the context of cancer. I am particularly interested in how computational biology and bioinformatics can be applied to identify key immune-related genes, cellular interactions, and signaling pathways that influence tumor progression, immune evasion, and therapeutic resistance. Additionally, I am interested in the development and optimization of gene- and cell-based immunotherapies. 
 
-Here are some ideas to get you started:
+Main interests: 
+Cancer immunology · Neuroimmunology · Neurodegenerative diseases (e.g., Alzheimer's disease and Parkinson's disease) · Immunogenomics · Tumor microenvironment · Translational immunology · Population genomics · Stem cell biology · Regulatory networks · Epigenomics · Human genetics · Genetic engineering · Bioinformatics · Computational biology · Translational medicine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Languages: 
+Spanish: native
+English: full professional proficiency (C2)
+French: elementary proficiency (A2) 
+
+
+--- 
+Contact info 
+carrillo@lcg.unam.mx
+dulce.alejandra.carrillo@ibt.unam.mx
