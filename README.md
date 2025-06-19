@@ -20,7 +20,6 @@ French: elementary proficiency (A2)
 
 --- 
 **Contact info** 
+📧 alecarrillocarlos@gmil.com
 
 📧 carrillo@lcg.unam.mx
-
-📧 dulce.alejandra.carrillo@ibt.unam.mx
