@@ -11,9 +11,9 @@ Cancer immunology · Neuroimmunology · Neurodegenerative diseases · Autoimmune
 
 **Languages:**
 
-Spanish: native
-English: full professional proficiency (C2)
-French: elementary proficiency (A2) 
+- Spanish: native
+- English: full professional proficiency (C2)
+- French: elementary proficiency (A2) 
 
 --- 
 **Contact info** 
