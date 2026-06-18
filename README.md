@@ -1,4 +1,4 @@
-Hi! I am Alejandra Carrillo 
+Hi! 
 ---
 I am a third year Genomic Sciences undergraduate student at the National Autonomous University of Mexico (UNAM) with a strong interest in immunology and cancer. 
 
